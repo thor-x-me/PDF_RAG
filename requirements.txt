@@ -1,0 +1,9 @@
+pypdf
+langchain
+langchain-community==0.2.4
+sentence-transformers
+cryptography>=3.1
+langchain-openai
+langchain-pinecone
+langchain-google-genai
+langchain-huggingface
